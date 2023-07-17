@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "id": "sdfghj",
+      "name": "grace shedrack",
+      "password": "werghhgf",
+      "email": "shedygrace@gmail.com",
+      "phone": "08102130723",
+      "country": "China",
+      "gender": "male",
+      "address": "22, reasgrhcvjbkln;l;"
+    },
+    {
+      "id": "qwerty",
+      "name": "Olu-Ajimati Victor",
+      "password": "qwerty",
+      "email": "oluajimativictor@gmail.com",
+      "phone": "08121956126",
+      "country": "UK",
+      "gender": "male",
+      "address": "22, reasgrhcvjbkln;l;"
+    },
+    {
+      "id": "grace",
+      "name": "grace shedrack",
+      "password": "graciously",
+      "email": "shedygrace@gmail.com",
+      "phone": "08102130723",
+      "country": "China",
+      "gender": "female",
+      "address": "tinuke street"
+    },
+    {
+      "id": "test",
+      "name": "table",
+      "password": "yes",
+      "email": "ergh@gmail.com",
+      "phone": "08121956126",
+      "country": "Nigeria",
+      "gender": "male",
+      "address": "22, reasgrhcvjbkln;l;"
+    }
+  ]
+}
